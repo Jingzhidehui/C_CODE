@@ -1,0 +1,4 @@
+﻿  test.c.cpp
+C:\Users\86185\Desktop\c++书写hello world\三子棋\三子棋\game.c.cpp(14,22): warning C4305: “=”: 从“int”到“char”截断
+C:\Users\86185\Desktop\c++书写hello world\三子棋\三子棋\game.c.cpp(14,18): warning C4309: “=”: 截断常量值
+  三子棋.vcxproj -> C:\Users\86185\Desktop\c++书写hello world\三子棋\Debug\三子棋.exe
