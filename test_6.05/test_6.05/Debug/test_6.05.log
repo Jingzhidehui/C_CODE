@@ -1,0 +1,8 @@
+﻿  test1.cpp
+C:\Users\86185\Desktop\C语言代码\test_6.05\test_6.05\test1.cpp(233,1): error C3873: “0x2014”: 不允许将此字符作为标识符的第一个字符
+C:\Users\86185\Desktop\C语言代码\test_6.05\test_6.05\test1.cpp(233,1): error C3872: “0x2014”: 此字符不允许在标识符中使用
+C:\Users\86185\Desktop\C语言代码\test_6.05\test_6.05\test1.cpp(234,1): error C3872: “0x300c”: 此字符不允许在标识符中使用
+C:\Users\86185\Desktop\C语言代码\test_6.05\test_6.05\test1.cpp(234,1): error C3872: “0x300d”: 此字符不允许在标识符中使用
+C:\Users\86185\Desktop\C语言代码\test_6.05\test_6.05\test1.cpp(234,72): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\86185\Desktop\C语言代码\test_6.05\test_6.05\test1.cpp(234,1): error C2146: 语法错误: 缺少“;”(在标识符“版权声明：本文为CSDN博主「POH_」的原创文章，遵循CC”的前面)
+C:\Users\86185\Desktop\C语言代码\test_6.05\test_6.05\test1.cpp(234,81): error C3872: “0x3002”: 此字符不允许在标识符中使用

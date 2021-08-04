@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\86185\Desktop\C语言代码\队列\队列\Queue.h(10,25): warning C4091: “typedef ”: 没有声明变量时忽略“QueueNode”的左侧
+  队列.vcxproj -> C:\Users\86185\Desktop\C语言代码\队列\Debug\队列.exe

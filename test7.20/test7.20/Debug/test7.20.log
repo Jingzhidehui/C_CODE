@@ -1,0 +1,4 @@
+﻿  7.20.c
+C:\Users\86185\Desktop\C语言代码\test7.20\test7.20\7.20.c(524,30): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\86185\Desktop\C语言代码\test7.20\test7.20\7.20.c(525,11): warning C4013: “memset”未定义；假设外部返回 int
+  test7.20.vcxproj -> C:\Users\86185\Desktop\C语言代码\test7.20\Debug\test7.20.exe

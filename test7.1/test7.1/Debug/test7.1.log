@@ -1,0 +1,4 @@
+﻿  test7.1.cpp
+C:\Users\86185\Desktop\C语言代码\test7.1\test7.1\test7.1.cpp(247,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\86185\Desktop\C语言代码\test7.1\test7.1\test7.1.cpp(1): message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  test7.1.vcxproj -> C:\Users\86185\Desktop\C语言代码\test7.1\Debug\test7.1.exe

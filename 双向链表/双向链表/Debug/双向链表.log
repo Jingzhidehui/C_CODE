@@ -1,0 +1,4 @@
+﻿  List.c
+C:\Users\86185\Desktop\C语言代码\双向链表\双向链表\List.c(8,39): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\86185\Desktop\C语言代码\双向链表\双向链表\List.c(32,7): warning C4013: “free”未定义；假设外部返回 int
+  双向链表.vcxproj -> C:\Users\86185\Desktop\C语言代码\双向链表\Debug\双向链表.exe
